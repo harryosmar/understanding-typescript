@@ -4,11 +4,17 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "build": "tsc",
+    "watch": "tsc --watch"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "typescript": "^3.4.5"
+  },
+  "devDependencies": {
+    "lite-server": "^2.4.0"
   }
 }
