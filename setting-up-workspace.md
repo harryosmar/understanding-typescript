@@ -12,12 +12,12 @@ npm install lite-server --save-dev
 ./node_modules/typescript/bin/tsc  --init
 ```
 
-> message TS6071: Successfully created a tsconfig.json file.
+> message TS6071: Successfully created a [tsconfig.json](https://github.com/harryosmar/understanding-typescript/blob/master/tsconfig.json) file.
 
 
 ## Start lite-server & watch .ts
 
-add this to `script` section on `package.json` file.
+add this to `script` section on [`package.json`](https://github.com/harryosmar/understanding-typescript/blob/master/package.json) file.
 
 ```json
  "start": "lite-server",
