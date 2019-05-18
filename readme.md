@@ -2,6 +2,7 @@
 
 - [installation](https://github.com/harryosmar/understanding-typescript/blob/master/installation.md)
 - [setting up workspace](https://github.com/harryosmar/understanding-typescript/blob/master/setting-up-workspace.md)
+- [assigning types explicitly](https://github.com/harryosmar/understanding-typescript/blob/master/assigning-types-explicitly.md)
 
 
 ## Links
