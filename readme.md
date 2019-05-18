@@ -15,6 +15,9 @@
     - Mutiple Types or Union
     - Never Type
 
+## How to run
+
+[Start the lite server & watch the .ts](https://github.com/harryosmar/understanding-typescript/blob/master/setting-up-workspace.md#start-lite-server--watch-ts)
 
 ## Links
 - https://www.typescriptlang.org/
