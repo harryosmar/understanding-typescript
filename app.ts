@@ -18,6 +18,18 @@ button.onclick = function() {
 
 document.body.appendChild(button);
 
+// tupple
+let hobbies: [string, string, number] = ['eat', 'sleep', 100];
+hobbies.push(11);
+console.log(hobbies);
 
-// let hobbies: any[] = ['eat', 'sleep', 100];
-// hobbies.push(true);
+
+// enum
+enum Color {
+    Gray,
+    Green,
+    Blue = 8
+};
+
+let myColor: Color = Color.Blue;
+console.log(myColor, Color);
