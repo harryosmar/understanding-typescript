@@ -15,13 +15,5 @@ button.onclick = function () {
     alert(greeter.greet());
 };
 document.body.appendChild(button);
-var mystring;
-mystring = 'helllo';
-mystring = 1234;
-var mynumber;
-mynumber = 1234;
-mynumber = 1234.50;
-mynumber = 'hello';
-var myboolean;
-myboolean = true;
-myboolean = 1234;
+// let hobbies: any[] = ['eat', 'sleep', 100];
+// hobbies.push(true);

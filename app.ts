@@ -18,16 +18,6 @@ button.onclick = function() {
 
 document.body.appendChild(button);
 
-let mystring : string;
-mystring = 'helllo';
-mystring = 1234;
 
-
-let mynumber : number;
-mynumber = 1234;
-mynumber = 1234.50;
-mynumber = 'hello';
-
-let myboolean : boolean;
-myboolean = true;
-myboolean = 1234;
+// let hobbies: any[] = ['eat', 'sleep', 100];
+// hobbies.push(true);
